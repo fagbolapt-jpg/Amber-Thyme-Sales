@@ -97,7 +97,7 @@ I worked in PivotTables, using heatmap-style conditional formatting to spot patt
 
 ## Dashboard
 
-![Amber & Thyme restaurant performance dashboard](images/dashboard.png)
+![Amber & Thyme restaurant performance dashboard](dashboard.png)
 
 **How to read it**
 
