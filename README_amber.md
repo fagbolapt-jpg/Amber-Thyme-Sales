@@ -144,7 +144,6 @@ Two problems showed up during the project, and checking my own work caught both:
 - **Misread dates.** My first date step read some day/month dates the wrong way round, which pushed about 5% of orders into April to December. I noticed because a three-month export should not contain those months. I traced it and fixed it with the weekday check described above.
 - **An accidental filter.** A stray filter on party size removed 710 rows. My cleaned table had 3,044 rows when the cleaning steps should have left 3,754. Comparing against the expected count caught it.
 
-**Lesson:** reconcile row counts after every cleaning step, and sanity-check dates against what you know about the data.
 
 ---
 
